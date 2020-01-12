@@ -1,5 +1,5 @@
 # SOLUTION TO:
-https://www.cemc.uwaterloo.ca/resources/potw/2019-20/English/POTWE-19-AE-CP-14-P.pdf
+# https://www.cemc.uwaterloo.ca/resources/potw/2019-20/English/POTWE-19-AE-CP-14-P.pdf
 
 # create class to represent size of current set
 class row_size:
